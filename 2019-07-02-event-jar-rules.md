@@ -30,3 +30,4 @@ Participants
 - [x] Joan
 - [ ] Modesto
 - [x] Raffy
+- [x] Jean A.
